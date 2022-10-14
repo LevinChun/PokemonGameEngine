@@ -81,4 +81,4 @@ If you'd like to learn more or just talk, join our [Discord server][Discord].
 * https://www.deviantart.com/peekychew/art/Lava-and-Cave-Tileset-836741864
 * https://www.deviantart.com/phyromatical/art/Taragonia-BW-Mix-434036293
 
-[Discord]: https://discord.gg/Z4Mn9qX
+[Discord]: https://discord.gg/sT5FDzMKke
